@@ -1,1 +1,1 @@
-# breast-cancer: Winsconsin dataset
+# breast-cancer: Wisconsin dataset
